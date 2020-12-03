@@ -1,0 +1,58 @@
+SCRUM
+Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
+Scrum is built upon by the collective intelligence of the people using it.
+Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions.
+Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
+These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+
+SCRUM VALUES
+Successful use of Scrum depends on people becoming more proficient in living five values:
+Commitment, Focus, Openness, Respect, and Courage.
+When these values are embodied by the Scrum Team and the people they work with,
+the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
+
+SCRUM TEAM
+The fundamental unit of Scrum is a small team of people, a Scrum Team.
+The Scrum Team consists of one Scrum Master, one Product Owner, and Developers.
+The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people.
+The Scrum Team is responsible for all product-related activities from 
+stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required.
+
+DEVELOPERS
+Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
+Creating a plan for the Sprint, the Sprint Backlog.
+Instilling quality by adhering to a Definition of Done.
+Adapting their plan each day toward the Sprint Goal. 
+Holding each other accountable as professionals.
+
+PRODUCT OWNER
+The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team.
+The Product Owner is one person, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog.
+Developing and explicitly communicating the Product Goal.
+Creating and clearly communicating Product Backlog items.
+Ordering Product Backlog items.
+Ensuring that the Product Backlog is transparent, visible and understood.
+
+SCRUM MASTER
+The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. 
+They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
+Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
+The Scrum Master serves the organization in several ways, including:
+Leading, training, and coaching the organization in its Scrum adoption.
+Planning and advising Scrum implementations within the organization.
+Helping employees and stakeholders understand and enact an empirical approach for complex work.
+Removing barriers between stakeholders and Scrum Teams.
+
+SPRINT
+They are fixed length events of one month or less to create consistency. 
+A new Sprint starts immediately after the conclusion of the previous Sprint.
+During the Sprint:
+No changes are made that would endanger the Sprint Goal.
+Quality does not decrease.
+The Product Backlog is refined as needed.
+Scope may be clarified and renegotiated with the Product Owner as more is learned.
+
+DAILY SCRUM
+The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
+The Daily Scrum is a 15-minute event for the Developers of the Scrum Team to reduce complexity.
+Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
